@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solomon M Lemma</title>
+    <link>https://SolomonLemma.github.io/</link>
+    <description>Recent content on Solomon M Lemma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Sep 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://SolomonLemma.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project: Ocular Disease Recognition</title>
+      <link>https://SolomonLemma.github.io/post/project-2/</link>
+      <pubDate>Fri, 10 Sep 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://SolomonLemma.github.io/post/project-2/</guid>
+      <description>This project was exploring the optimal predicting model for the interaction of antibody-antigens based on their proteins sequence and physicochemical properties in the use of vaccine development.
+The results of multi-classification of the eye disease with its respective prevalence showed highest accuracy (98%) using XGB classifier as compared to others models. The project also achieved to identify the fundus eye images to differentiate healthy from unhealthy with a range of 85-95% accuracy level.</description>
+    </item>
+    
+    <item>
+      <title>Project: Predicting Antibody-Antigen Interaction for Vaccine Development</title>
+      <link>https://SolomonLemma.github.io/post/project-1/</link>
+      <pubDate>Thu, 09 Sep 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://SolomonLemma.github.io/post/project-1/</guid>
+      <description>This project was exploring the optimal predicting model for the interaction of antibody-antigens based on their proteins sequence and physicochemical properties in the use of vaccine development.
+XGBoost, Random Forest, Logistic Regression, and Deep Learning were employed to select the best performing models. The results showed that all the models performed more than 50% of the baseline. Specifically, random forest achieved about 90% accuracy with a threshold of 91% for keeping all the positive predictions.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://SolomonLemma.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://SolomonLemma.github.io/contact/</guid>
+      <description>Follow me on these media Platform
+   Platform URL     LinkedIn: https://www.linkedin.com/in/solomonml   GitHub: https://github.com/SolomonLemma   Medium: https://medium.com/@solom1913   Gmail: Solomonmengistu@gmail.com    </description>
+    </item>
+    
+  </channel>
+</rss>

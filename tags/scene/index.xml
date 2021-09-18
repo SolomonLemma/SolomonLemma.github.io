@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Solomon M Lemma</title>
+    <link>https://SolomonLemma.github.io/tags/scene/</link>
+    <description>Recent content in scene on Solomon M Lemma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Sep 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://SolomonLemma.github.io/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project: Predicting Antibody-Antigen Interaction for Vaccine Development</title>
+      <link>https://SolomonLemma.github.io/post/project-1/</link>
+      <pubDate>Thu, 09 Sep 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://SolomonLemma.github.io/post/project-1/</guid>
+      <description>This project was exploring the optimal predicting model for the interaction of antibody-antigens based on their proteins sequence and physicochemical properties in the use of vaccine development.
+XGBoost, Random Forest, Logistic Regression, and Deep Learning were employed to select the best performing models. The results showed that all the models performed more than 50% of the baseline. Specifically, random forest achieved about 90% accuracy with a threshold of 91% for keeping all the positive predictions.</description>
+    </item>
+    
+  </channel>
+</rss>
