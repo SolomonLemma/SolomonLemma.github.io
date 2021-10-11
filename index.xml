@@ -28,13 +28,23 @@ XGBoost, Random Forest, Logistic Regression, and Deep Learning were employed to 
     </item>
     
     <item>
+      <title>Project: NLP and Classification</title>
+      <link>https://SolomonLemma.github.io/post/project-3/</link>
+      <pubDate>Sat, 10 Jul 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://SolomonLemma.github.io/post/project-3/</guid>
+      <description>The project covered webscribing several thousand posted text, data cleaning, engineer featuring, vectorize the texts, develop machine learning models to classify the text. Results of the models showed more than 40% baseline with accuracy value of above 91%.The winner model was the logistic regression (LR) model, which was able to correctly classify 4 out of 5 posts.
+  Link to GitHub Repository</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>https://SolomonLemma.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://SolomonLemma.github.io/contact/</guid>
-      <description>Follow me on these media Platform
-   Platform URL     LinkedIn: https://www.linkedin.com/in/solomonml   GitHub: https://github.com/SolomonLemma   Medium: https://medium.com/@solom1913   Gmail: Solomonmengistu@gmail.com    </description>
+      <description>Follow me on these platforms
+   Platforms URL     LinkedIn: https://www.linkedin.com/in/solomonml   GitHub: https://github.com/SolomonLemma   Medium: https://medium.com/@solom1913   Google Scholar: https://scholar.google.com/citations?user=4UMd6sYAAAAJ&amp;amp;hl=en    </description>
     </item>
     
   </channel>

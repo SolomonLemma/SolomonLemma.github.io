@@ -27,5 +27,15 @@ The results of multi-classification of the eye disease with its respective preva
 XGBoost, Random Forest, Logistic Regression, and Deep Learning were employed to select the best performing models. The results showed that all the models performed more than 50% of the baseline. Specifically, random forest achieved about 90% accuracy with a threshold of 91% for keeping all the positive predictions.</description>
     </item>
     
+    <item>
+      <title>Project: NLP and Classification</title>
+      <link>https://SolomonLemma.github.io/post/project-3/</link>
+      <pubDate>Sat, 10 Jul 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://SolomonLemma.github.io/post/project-3/</guid>
+      <description>The project covered webscribing several thousand posted text, data cleaning, engineer featuring, vectorize the texts, develop machine learning models to classify the text. Results of the models showed more than 40% baseline with accuracy value of above 91%.The winner model was the logistic regression (LR) model, which was able to correctly classify 4 out of 5 posts.
+  Link to GitHub Repository</description>
+    </item>
+    
   </channel>
 </rss>
